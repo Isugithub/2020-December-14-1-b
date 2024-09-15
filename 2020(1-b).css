@@ -1,0 +1,22 @@
+/*please call the class and give the properties*/
+body{
+    background-color: #FF2CFB;
+}
+.firstheading{
+    font-family: 'Tahoma',sans-serif;
+    color: blue;
+    text-align: center;
+    font-size: 40pt;
+}
+.second{
+    font-family: 'Arial',sans-serif;
+    font-size: 30pt ;
+    text-align: center;
+    text-decoration: underline;
+    color: green;
+}
+/*without any class we can give the style for this. because only one para,if it has many para you should give the class name*/
+p{
+    font-size: 25pt;
+    font-style: italic;
+}
